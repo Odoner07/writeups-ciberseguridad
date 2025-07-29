@@ -190,7 +190,7 @@ User www-data may run the following commands on ip-10-10-94-226:
 
 Y como era de esperar teniendo todos los permisos y encima sin pedir contraseña solo teníamos que hacer un sudo su para elevar privilegios y obtener root y entrar dentro de la carpeta `root` para encontrarnos el último ingrediente. 
 
-## 6. Notas y aprendizajes
+## 5. Notas y aprendizajes
 
 - Punto fuerte: Esta sala me ha enseñado a siempre mirar el código fuente y empezar a pensar realmente como un hacker
     
