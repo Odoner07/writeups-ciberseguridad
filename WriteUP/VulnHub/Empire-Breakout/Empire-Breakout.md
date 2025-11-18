@@ -1,10 +1,11 @@
 ---
-Titulo: ""
-Fecha: ""
-categoria: []
-Dificultad_oficial: ""
-Dificultad_percibida: ""
-Estado: ""
+Titulo: Empire-Breakout
+Fecha: 18-11-2025
+categoria:
+  - Capabilities
+Dificultad_oficial: Fácil/Media
+Dificultad_percibida: Facil/Medio
+Estado: Terminado
 ---
 ## 1. Descripción del reto
 No se nada de este reto, de hecho es el primero que hago de la plataforma de vulnhub

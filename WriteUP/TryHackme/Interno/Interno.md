@@ -4,7 +4,7 @@ Fecha: 12-11-2025
 categoria: []
 Dificultad_oficial: Dificil
 Dificultad_percibida: Media/Dificil
-Estado: En curso
+Estado: Terminado
 ---
 ## 1. Descripción del reto
 Se le ha asignado un cliente que desea que se realice una prueba de penetración en un entorno que se lanzará a producción en tres semanas. 
